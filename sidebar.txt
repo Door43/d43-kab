@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kab:home|Door43 (kab)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kab|d43-kab repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kab/archive/master.zip|d43-kab.zip]]
+
+**Recent Changes**
+{{changes>ns = kab}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kab|Ethnologue data]]
+
